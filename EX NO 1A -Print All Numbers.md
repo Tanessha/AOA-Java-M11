@@ -1,4 +1,3 @@
-
 # EX 1A Print All Numbers 
 ## DATE: 16/04/2026
 
